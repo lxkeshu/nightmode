@@ -1,3 +1,3 @@
 # nightmode
-Javascript mini project\
+Javascript night mode switch mini project\
 Used HTML, CSS and Javascript
